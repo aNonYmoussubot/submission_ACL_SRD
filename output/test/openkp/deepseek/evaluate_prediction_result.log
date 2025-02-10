@@ -1,0 +1,161 @@
+02/26/2025 11:29:50 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:29:50 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:29:50 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:29:50 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:29:50 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:29:50 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:29:50 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:29:50 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:29:50 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:29:50 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:29:50 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:29:50 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:29:50 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:30:48 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:30:48 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:30:48 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:30:48 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:30:48 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:30:48 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:30:48 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:30:48 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:30:48 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:30:48 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:30:48 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:30:48 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:39:10 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:39:10 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:39:10 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:39:10 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:39:10 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:39:10 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:39:10 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:39:10 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:39:10 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:39:10 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:39:10 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:39:10 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:39:57 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:39:57 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:39:57 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:39:57 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:39:57 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:39:57 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:39:57 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:39:57 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:39:57 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:39:57 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:39:57 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:39:57 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:40:47 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:40:47 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:40:47 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:40:47 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:40:47 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:40:47 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:40:47 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:40:47 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:40:47 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:40:47 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:40:47 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:40:47 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:43:30 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:43:30 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:43:30 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:43:30 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:43:30 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:43:30 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:43:30 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:43:30 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:43:30 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:43:30 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:43:30 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:43:30 [INFO] evaluate_prediction: use_name_variations    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: Parameters:
+02/26/2025 11:44:39 [INFO] evaluate_prediction: pred_file_path    :    output/test/openkp/deepseek/pred.json
+02/26/2025 11:44:39 [INFO] evaluate_prediction: src_file_path    :    kg_data/testsets/openkp/test_src.txt
+02/26/2025 11:44:39 [INFO] evaluate_prediction: trg_file_path    :    kg_data/testsets/openkp/test_trg.txt
+02/26/2025 11:44:39 [INFO] evaluate_prediction: export_filtered_pred    :    True
+02/26/2025 11:44:39 [INFO] evaluate_prediction: filtered_pred_path    :    output/test/openkp/deepseek
+02/26/2025 11:44:39 [INFO] evaluate_prediction: exp_path    :    output/test/openkp/deepseek
+02/26/2025 11:44:39 [INFO] evaluate_prediction: disable_extra_one_word_filter    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: disable_valid_filter    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: num_preds    :    200
+02/26/2025 11:44:39 [INFO] evaluate_prediction: debug    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: match_by_str    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: invalidate_unk    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: target_separated    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: prediction_separated    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: reverse_sorting    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: tune_f1_v    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: all_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:44:39 [INFO] evaluate_prediction: present_ks    :    ['3', '5', '10', 'M']
+02/26/2025 11:44:39 [INFO] evaluate_prediction: absent_ks    :    ['3', '5', '10', '50', 'M']
+02/26/2025 11:44:39 [INFO] evaluate_prediction: target_already_stemmed    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: meng_rui_precision    :    False
+02/26/2025 11:44:39 [INFO] evaluate_prediction: use_name_variations    :    False

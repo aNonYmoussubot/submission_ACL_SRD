@@ -1,0 +1,300 @@
+cento server;partit;logic volum;boot partit;data partit
+open sourc project;govern model;multi-institut;softwar develop;project manag
+sed;file process
+copyleft
+function;dri principl
+youtub channel;subscrib;subscript date;youtub histori
+merg directori;sourc directori;symlink;file synchron;directori manag
+method;object-ori design;user input;code refactor
+remot syslog;command line client;logger;syslog messag;remot server;syslog daemon
+feedburn;feed manag;rss feed
+mechan turing-complet machin;analyt engin;univers ture machin;charl babbag;finit storag space;electron
+distribut version control system;gartner' hype cycl;social proof;git;technolog matur
+malwar analysi;assembl code;revers engin;window dll;malwar detect;linux;debug tool
+kickstart;network card;static ip;network configur
+line number;file;non zero valu;specifi string;data verif;line extract
+csl formula;automaton;continu stochast logic;machin learn
+cohen-sutherland clip;2d clip method;view-port;transform matrix;line clip;viewport transform
+search engin;microdata;additionaltyp url;structur data
+file exist;pipelin;if statement;shell script
+comput function;number;godel number;even number
+copyleft
+copyleft
+diff
+mobil io applic;server interact design;python;news articl;client-serv architectur;api design;data queri
+solari;home variabl;user directori
+googl analyt;user;traffic sourc
+csv;data process
+volum;respons time;inform present
+ddst;ricoh aficio sp c240dn;open-sourc driver;ppd file
+java;web applic;code structur
+share data store;linux;file permiss;access control
+els if claus;if;condit statement
+valid class;php;if-els statement;form valid;object-ori program;code refactor;unit test
+remez algorithm;polynomi approxim;squar root function;curv fit;matrix class;newton' method
+geometr lod;game;geometri level-of-detail;object mesh;asset pipelin;high-poli model;decim algorithm;lod mesh;smooth transit;progress transit
+sed;re error
+meta name=verify-v1;googl webmast tool;websit verif;meta tag
+recurr relat;asymptot approxim;algorithm analysi;master theorem
+verif;webmast tool;domain ownership
+cognito form;ipad app;offlin form;data synchron
+rpm;packag manag
+adsens;googl polici;websit approv;googl adsens guidelin
+sql limit keyword;fetch onli need data;softwar principl;keep-it-simpl principl;rule of the least power
+remot screen;text-mod shell;ssh;python script;web scrape;termin emul
+pci passthrough;devic memori access;dma remap;intel haswel;qemu
+yum;packag manag
+bash;shell script;command line
+xarg;process manag
+libnet;command line
+java;node expand;bidirect search
+number sequenc;increas then decreas;arrang;natur number;time complex;c program
+c;file size
+quantum finit automata;non-regular languag;number of state;regular languag;finit automata;closur properti
+freebsd;upgrad process
+stream
+circumfer
+person trait;self-disciplin;big5 facet c5;scientif report
+tcp;data recoveri
+svn;version control;conflict resolut;best practic
+android phone;project fi;nexu 5x;nexu 6p;smartphon;mobil network
+wordpress
+vim;auto complet;mac os x
+mkdir -p;instal -d;linux command;directori creation
+function program;busi rule;softwar develop;system design
+post;privaci set;social media
+circuit sat;random algorithm;complex theori;comput complex
+find;file search
+apt;latest packag;packag manag
+spotifi;music stream;desktop softwar;web player
+collis;independ hash;hash function;hash tabl
+predict model;k-fold cross-valid;model accuraci;consult firm;data valid;predict power
+unix;shell script;environ variabl
+json
+googl spreadsheet;count occurr;excel;data analysi
+git;virtual machin;file system
+resolv.conf;dn lookup;network configur;domain resolut
+crontab;task schedul;cron job
+bash;email attach
+scribd;document download
+urxvt;arch linux;termin emul;copi past;output structur
+theta complex;data structur;big-o;time complex
+googl drive;file usag summari;log activ;file share;access monitor;modif track
+revers engin;websit;cascad style sheet;web develop
+bash;for loop;shell script;file handl
+libcairo;instal error
+reinforc learn;svm;mlp back propag
+treewidth;random graph;graph theori
+graph;social network;depth-first graph travers algorithm;unconnect graph;emerg phone chain
+elaps time;file;cpu usag;system perform
+solari;compar file;file comparison tool;binari format
+truth tabl;contradict;complex class
+epiphani;raspberri pi
+html;lazi load;static content
+wifi;kernel modul;network interfac
+polynomi time reduc;comput complex;invert function
+hamiltonian cycl problem;subgraph isomorph;np-complet;graph theori
+first order logic;least fix point oper;lfp;complet theorem;infinit structur
+tini core;mysql;command line
+zsh;root user;shell script;environ variabl
+mysqli
+queri object;idatacontext;document db
+isol lemma;weak isol;complex theori;random;log-spac comput;determinist algorithm;graph theori;polynomi time;uniqu path;reachabl problem
+gnome box;network configur;cento;virtual machin;ip conflict
+wordpress;ip address;ec2 instanc;elast ip
+linux;flash player;open sourc;web plugin
+regex;string manipul;file process
+caa record;debian;ssl certif;certif author author;rfc 6844;zone file;web server
+hyperspher;membership oracl
+offic web app;default applic;window;firefox extens;ie add-on;chrome extens;offic document;system level;internet explor
+variabl name;applic specif term;code standard;softwar mainten
+random forest;categor variabl;one hot encod;regress;predict dataset;new level
+shell command;text file;sed command;awk;command line;data process
+person domain name;web host;domain registr;tld
+emac;tag file
+search engin rank;scribd;docx file;duplic content
+robots.txt;protocol agnost
+org-mod
+multi-thread;socket server;high load;thread pool;amazon ec2;tomcat server;heap size
+ftp
+disk name;partit
+network port;log file;node.j;file monitor
+aix;file manag
+wpa supplic;network configur;wifi adapt;debian 7;networkmanag;4-way handshak;linux kernel;usb wifi;mac address
+404 messag;web server;http statu code;apach configur;dynam languag;search engin optim;two tier architectur
+triangl;polygon mesh;geodes distanc;mesh process;comput geometri
+share drive;window;raspberri pi;network drive;file system
+d-link dwa-510;debian 7;wireless adapt;linux
+bash;file name;sequenti number;increment number
+libglib2.0-dev;packag manag
+etc/shadow;root account;password manag;system secur
+ssh-agent;network chang;ubuntu 16.04;debug step;systemd journal
+matrix;diamond version;nest array;code readabl
+php;document convers
+grep;field extract;file process
+bash;count word;text file;pattern analysi;semi-structur text
+gmail chat;edit a person' name;contact;gmail interfac
+googl app hangout;roster
+lualatex;debian wheezi;latex document
+github releas;draft;github action;version control
+dconf
+ip address;server;content scrape;load balanc;traffic analysi;ip filter;rate limit;web applic firewal;log analysi
+tqbf;pspace complet;complex theori;logarithm space
+googl;googl webmast tool;search engin optim;websit index
+smuxi-serv;irc client
+md5;line break;string comparison
+guess game;easygui;random modul
+usb/ip driver;linux host;kernel modul;window virtual machin;usb 3g modem;linux-stag code
+html;news page;content manag system
+speech dysarthria;schizophrenia;medication-induc disrupt;motor neuron;mesocort dopaminerg pathway;psychiatr condit;comorbid neurolog diagnosi;acquir dysarthria;peripher condit
+ssh;default shell;server access;password recoveri
+command line;virtual textur;io devic;c++;file format;command line argument
+new bsd licens;gpl licens;icsopenvpn project;libopenvpn.so librari;gnu gplv2 licens;commerci applic;licens compat;open sourc licens
+reverse-ssh tunnel;keepal;ssh client;static ip;systemd servic;debug info;broken pipe;port forward;dynam dn
+licens;third-parti licens
+zsh;bookmark command;shell script;command line
+modelin;intel gma;qumox convert
+coffeescript;code readabl;code style
+doubli link list;iter;pointer arithmet;data structur
+nginx;revers proxi;basic authent;raspberri pi;couch potato
+natur sort;f#;code format;file layout;unit test framework;function program
+regular express;languag theori;finit automata
+prototyp method;javascript;class extens
+pac learn model;concept class;gener error;polynomi function;machin learn;algorithm;sampl size
+html;planck constant
+trello;board owner
+todo marker;confluenc page;visual studio;ide
+shamir secret share;file encrypt;java;colleg project;perform optim
+algorithm
+fail2ban;server secur;ip block
+search;conceal text;syntax highlight;text manipul
+samba share;read-onli file system error;linux client;nf;file permiss
+cpu util;core;cpu core
+googl webmast tool;youtub video download websit;youtub video download;block
+php;web server
+longest path problem;weight direct graph;treewidth;polynomi time;undirect graph;binari weight
+svg;databas diagram;graphic languag
+googl form;script;phone number;error messag
+googl doc;permiss;document share;access control
+kali linux;grub;usb drive;macbook pro;amd gpu
+github page;web host;branch manag
+destructur assign;style object;react-n style;javascript;code readabl
+object c;inherit;class properti
+perl script;pars block;file;block of text;text process;file organ;data pars
+huffman tree;letter;lossless compress;binari tree
+unit test;curl;rest client
+directori structur;pipe;cd burn;blu ray disc
+cm;web develop;secur flaw
+auto label algorithm;simul anneal algorithm;2d space;real-tim algorithm;label overlap
+posit rank;matrix;commun complex;log-rank conjectur
+raid devic;filesystem;storag manag
+powershel;network perform;script optim
+boost;third parti librari;linker error
+array
+design;class diagram;input paramet;method function;softwar design;code structur;static analysi;depend graph
+euler rotat equat;numer integr;c++;open sourc integr
+lu factor;matrix;linear algebra;numer method
+subject util;expect util theori;decis maker;probabl;ration choic;uncertain world
+csv format;sed command;data process;file manipul
+open / close principl;logger class;solid principl;design pattern
+c++;project euler;modular arithmet
+ls command;file search;linux
+chromium;tl certif;common name;certif author
+line segment;project onto line;algorithm;data structur
+shader;comput shader
+releas date;rpm;command line;packag manag
+googl photo album;download all featur;google+ set;screenshot
+kernel32.basethreadinitthunk;import tabl;depend walker
+ssh;local server
+state machin;neural network;python
+subarray;max sum
+search program;perform increas;c#;xml pars
+web app;php
+desktop environ;mint 14;cinnamon;perform optim
+googl app script;calendar;reserv system;event creation;avail check;googl form;script modif;event schedul;time conflict;machin avail
+ls -lrt;cat;system log file
+gp coordin;bu rout;line segment;map render;algorithm;autonom detect
+googl busi;address;local search
+code
+efi;virtual machin;network boot;efi shell
+ssh;os x;password authent
+url;queri string
+underscorej;object manipul
+algorithm;distribut algorithm;random algorithm;time complex;distribut system;fault toler;network protocol
+iptabl;network rout;packag mark
+debian;network configur
+pleskrestor;server backup;file upload
+snmp trap;php daemon;ubuntu;snmp trap handler;daemon configur
+requir;design team
+dcel;data structur
+adsens;googl adsens;revenu share
+custom input function;user input;c program;memori alloc
+calameo;multipag book
+deriv work;combin work;lgpl 3.0;open sourc
+convection-domin problem;freefem++;boundari condit;initi condit
+self join;oracl;cartesian coordin;queri optim
+cartesian pixel;polar pixel;raster;imag process;coordin transform
+clojur;return valu;call stack;global variabl;edg case;best practic;string manipul;function program;log librari;third-parti librari;repl util
+qt;sourc code;custom qt softwar;softwar licens;linux distribut
+gnu convent;long option;python;command line;short option;gnu standard
+googl analyt;rail;web traffic;page view
+abstract syntax tree;parallel class hierarchi;compil;function program;bridg pattern
+qt framework;open sourc app;close sourc hardwar;lgpl;cross platform desktop app
+blog site;adsens;free host
+odataqueryopt
+machin translat;chines;googl translat;research advanc;translat model
+nginx;conf file;server configur;web server;secur optim
+web browser;cpu time;memori
+openvpn;dd-wrt router;polici base rout;wan address;port 587
+knapsack problem;direct acycl graph;comput workflow;np-hard;pseudo-polynomi algorithm;workflow optim
+twitter;file share;social media
+depress;sit idl;mental health
+empti string;formal languag;null refer;eol charact
+data stream algorithm;distribut comput;algorithm analysi
+bash script;debian 8;autostart
+numer solut;fraction integro-differenti equat;colloc method;mapl code;mathemat;yarmouk univers
+osqa;window 7 32bit;bitnami osqa;databas server
+linux;file storag;system perform
+languag;empti languag;mark method
+tabl;data manipul;tab separ
+singleton;design pattern
+string;extens method
+linux mint;softwar center;ubuntu
+colordiff
+storm topolog;s3;trident topolog;lambda architectur;amazon web servic;messag queue;batch process
+remap key;xkb;us file;down key;menu key;key map;keyboard layout
+mediawiki;nowiki tag
+tensorflow;train variabl;time seri data;categor output;cost function;dynam rnn model;machin learn;neural network;data imbal;hidden layer
+googl spreadsheet;header row;excel;data format
+subset sum problem;np-complet
+ssl;web server
+messag queue;microservic architectur;distribut system;java;apach camel;servic discoveri
+avl tree;node;binari tree
+kvm;virtual machin manag;permiss error
+process;process name
+iptabl
+virtual termin;debian;perform optim
+dudley' chain integr;rademach complex;central limit theorem;empir measur
+bash script;user input;while loop;file handl;ispel
+python;prototyp inherit;languag design;assign semant
+vim;plugin doc;document discoveri
+mercuri
+facebook;log out;social media;account manag
+algebra data type;c#
+oop;cormen algorithm
+filter output;color;command line;text process
+bash;variabl substitut;file renam;batch process
+warshall' algorithm;transit closur;time complex;graph theori;optim
+softwar product;visual studio;delphi 7;ide;code complet;programmer-time-sav approach
+xterm;focu manag
+nf;debian jessi;virtual machin;share folder
+arch linux;video driver;graphic driver;opengl;x window;consol mode
+bash
+grep;color output
+merg line;keyword;comma separ valu;file process;text manipul
+duplic content;rank;websit traffic
+googl doc;googl spreadsheet;googl app script;api;scroll view
+python;function calcul;perform optim
+metasploit 2 linux;root privileg;sudo;linux secur
+pf;block incom port;network traffic;os x
+googl calendar;weekend;week day
