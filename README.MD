@@ -25,7 +25,7 @@ huggingface-cli download --repo-type dataset --resume-download memray/stackexcha
 
 ### 1.2 Data Preprocessing
 
-Run the `preprocess_test_datasets.py` script to preprocess the five out-of-domain test sets.
+Run the `process_code/preprocess_test_datasets.py` script to preprocess the five out-of-domain test sets.
 
 ## 2. Analyzing Cross-Domain Features
 
